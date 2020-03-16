@@ -1,0 +1,219 @@
+{
+  "galaxy_j6": [
+    {
+      "caps": "deviceName",
+      "value": "Galaxy J6"
+    },
+    {
+      "caps": "platformVersion",
+      "value": "9"
+    },
+    {
+      "caps": "platformName",
+      "value": "Android"
+    },
+    {
+      "caps": "fullReset",
+      "value": "false"
+    },
+    {
+      "caps": "noReset",
+      "value": "false"
+    },
+    {
+      "caps": "autoGrantPermissions",
+      "value": "true"
+    },
+    {
+      "caps": "appPackage",
+      "value": "com.falabella.falabellaApp"
+    },
+    {
+      "caps": "appActivity",
+      "value": "com.falabella.falabellaApp.SplashActivity"
+    },
+    {
+      "caps": "newCommandTimeout",
+      "value": "500000"
+    },
+    {
+      "caps": "automationName",
+      "value": "uiautomator2"
+    }
+  ],
+  "honour_play": [
+    {
+      "caps": "deviceName",
+      "value": "honour_play"
+    },
+    {
+      "caps": "platformVersion",
+      "value": "8.1.0"
+    },
+    {
+      "caps": "platformName",
+      "value": "Android"
+    },
+    {
+      "caps": "fullReset",
+      "value": "false"
+    },
+    {
+      "caps": "noReset",
+      "value": "false"
+    },
+    {
+      "caps": "autoGrantPermissions",
+      "value": "true"
+    },
+    {
+      "caps": "appPackage",
+      "value": "com.falabella.falabellaApp"
+    },
+    {
+      "caps": "appActivity",
+      "value": "com.falabella.falabellaApp.SplashActivity"
+    },
+    {
+      "caps": "newCommandTimeout",
+      "value": "500000"
+    },
+    {
+      "caps": "automationName",
+      "value": "uiautomator2"
+    }
+  ],
+  "samsung_s8": [
+    {
+      "caps": "deviceName",
+      "value": "samsung_s8"
+    },
+    {
+      "caps": "platformVersion",
+      "value": "8"
+    },
+    {
+      "caps": "platformName",
+      "value": "Android"
+    },
+    {
+      "caps": "fullReset",
+      "value": "false"
+    },
+    {
+      "caps": "noReset",
+      "value": "false"
+    },
+    {
+      "caps": "autoGrantPermissions",
+      "value": "true"
+    },
+    {
+      "caps": "appPackage",
+      "value": "com.falabella.falabellaApp"
+    },
+    {
+      "caps": "appActivity",
+      "value": "com.falabella.falabellaApp.SplashActivity"
+    },
+    {
+      "caps": "automationName",
+      "value": "uiautomator2"
+    }
+  ],
+  "iphone_se": [
+    {
+      "caps": "deviceName",
+      "value": "iPhone SE"
+    },
+    {
+      "caps": "platformVersion",
+      "value": "12.2"
+    },
+    {
+      "caps": "platformName",
+      "value": "iOS"
+    },
+    {
+      "caps": "fullReset",
+      "value": "false"
+    },
+    {
+      "caps": "noReset",
+      "value": "false"
+    },
+    {
+      "caps": "autoGrantPermissions",
+      "value": "true"
+    },
+    {
+      "caps": "xcodeOrgId",
+      "value": "2F4PT43ZHJ"
+    },
+    {
+      "caps": "xcodeSigningId",
+      "value": "iPhone Developer"
+    },
+    {
+      "caps": "bundleId",
+      "value": "com.falabella.app"
+    },
+    {
+      "caps": "automationName",
+      "value": "XCUITest"
+    },
+    {
+      "caps": "newCommandTimeout",
+      "value": "50000"
+    },
+    {
+      "caps": "app",
+      "value": "/Users/yashwant.das/Projects/automation/src/test/resources/applications/falabella-staging.ipa"
+    },
+    {
+      "caps": "autoAcceptAlerts",
+      "value": "true"
+    }
+  ],
+  "emulator": [
+    {
+      "caps": "deviceName",
+      "value": "emulator"
+    },
+    {
+      "caps": "platformVersion",
+      "value": "8.0.0"
+    },
+    {
+      "caps": "platformName",
+      "value": "Android"
+    },
+    {
+      "caps": "fullReset",
+      "value": "false"
+    },
+    {
+      "caps": "noReset",
+      "value": "false"
+    },
+    {
+      "caps": "autoGrantPermissions",
+      "value": "true"
+    },
+    {
+      "caps": "appPackage",
+      "value": "com.falabella.falabellaApp"
+    },
+    {
+      "caps": "appActivity",
+      "value": "com.falabella.falabellaApp.SplashActivity"
+    },
+    {
+      "caps": "automationName",
+      "value": "uiautomator2"
+    }
+  ],
+  "samsung_s9_plus": [
+
+  ]
+}
